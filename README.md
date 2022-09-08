@@ -21,14 +21,11 @@
 
 ![image](https://raw.githubusercontent.com/deka1918/autoset-zsh/main/image/dp.png)
 
-## Install autoset-zsh
+## Install ZSH
 
-- cd autoset-zsh/
-- type `ls -la`
-- `sudo chmod +x install.sh`
-- `sudo ./install.sh`
-
-![image](https://github.com/deka1918/autoset-zsh/blob/main/image/install.png?raw=true)
+- `sudo apt install zsh zplug -y`
+- `chsh -s $(which zsh)` (set zsh as default shell)
+- `exec zsh` (restart zsh)
 
 ## Customize ZSH
 
