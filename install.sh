@@ -3,7 +3,6 @@
 #ZSH and zplug
 
 sudo apt install zsh zplug -y
-chsh -s /bin/zsh
 
 #powerlevel10k & config
 
@@ -17,4 +16,5 @@ echo 'source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh' >>~/.zshrc
 
 echo 'source ~/autoset-zsh/.zsh_history' >>~/.zshrc
 
+chsh -s $(which zsh)
 exec zsh
