@@ -2,7 +2,7 @@
 
 #ZSH and zplug
 
-sudo apt install git zsh zplug -y
+sudo apt install zsh zplug -y
 sudo apt update && sudo apt dist-upgrade -y
 chsh -s /bin/zsh
 
