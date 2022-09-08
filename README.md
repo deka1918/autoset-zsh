@@ -11,13 +11,13 @@
 
 - git clone https://github.com/deka1918/autoset-zsh.git 
 - add font with Font Manager: `sudo apt install font-manager`
-- Open Terminal (ctrl + alt + T) and set Caskaydiafont / Meslo font as default on terminal
-- type `exec` to restart terminal
+- set Caskaydiafont / Meslo font as default on terminal
+- restart terminal
 
 ## Install autoset-zsh
 
 - cd autoset-zsh/
-- `ls -la`
+- type `ls -la`
 - `sudo chmod +x install.sh`
 - `sudo ./install.sh`
 
