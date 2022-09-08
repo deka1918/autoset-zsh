@@ -13,7 +13,7 @@
 
 ## Install Recommended Font
 
-- git clone https://github.com/deka1918/autoset-zsh.git 
+- `git clone https://github.com/deka1918/autoset-zsh.git`
 - add font with Font Manager: `sudo apt install font-manager`
 - restart terminal
 - set Caskaydia font / Meslo font as default on terminal
