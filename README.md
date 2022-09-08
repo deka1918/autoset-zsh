@@ -21,6 +21,7 @@
 
 ![image](https://raw.githubusercontent.com/deka1918/autoset-zsh/main/image/dp.png)
 
+
 ## Install ZSH
 
 - `sudo apt install zsh zplug -y`
@@ -29,16 +30,15 @@
 
 ## powerlevel10k & config
 
-`git clone --depth=1 https://gitee.com/romkatv/powerlevel10k.git ~/powerlevel10k`
-`echo 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc`
-
+- `git clone --depth=1 https://gitee.com/romkatv/powerlevel10k.git ~/powerlevel10k`
+- `echo 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc`
 - type 'p10k configure`
 
 
 ## auto-suggestions
 
-`git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions`
-`echo 'source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh' >>~/.zshrc`
+- `git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions`
+- `echo 'source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh' >>~/.zshrc`
 
-`echo 'source ~/autoset-zsh/.zsh_history' >>~/.zshrc`
+- `echo 'source ~/autoset-zsh/.zsh_history' >>~/.zshrc`
 
