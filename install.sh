@@ -19,5 +19,3 @@ echo 'source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh' >>~/.zshrc
 echo 'source ~/autoset-zsh/.zsh_history' >>~/.zshrc
 
 exec zsh
-p10k configure
-
