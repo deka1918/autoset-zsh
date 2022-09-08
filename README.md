@@ -16,5 +16,11 @@
 
 ## Install autoset-zsh
 
+- cd autoset-zsh/
+- `ls -la`
+- `sudo chmod +x install.sh`
+- `sudo ./install.sh`
 
+## Customize ZSH
 
+- type `p10k configure`
