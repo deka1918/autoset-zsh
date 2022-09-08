@@ -5,7 +5,10 @@
 ## Getting Started
 
 - Install recommended font.
-- Install autoset-zsh
+- Install ZSH and set default
+- Install powerlevel10k
+- Install auto-suggestions
+- Add zsh_history
 - Customize ZSH 
 
 ## Install Recommended Font
