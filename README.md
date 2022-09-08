@@ -12,8 +12,9 @@
 
 - git clone https://github.com/deka1918/autoset-zsh.git 
 - add font with Font Manager: `sudo apt install font-manager`
-- set Caskaydia font / Meslo font as default on terminal
 - restart terminal
+- set Caskaydia font / Meslo font as default on terminal
+
 
 ![image](https://raw.githubusercontent.com/deka1918/autoset-zsh/main/image/dp.png)
 
