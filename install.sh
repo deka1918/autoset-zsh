@@ -3,7 +3,6 @@
 #ZSH and zplug
 
 sudo apt install zsh zplug -y
-sudo apt update && sudo apt dist-upgrade -y
 chsh -s /bin/zsh
 
 #powerlevel10k & config
